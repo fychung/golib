@@ -1,3 +1,3 @@
-module mylib/msgbox
+module msgbox
 
 go 1.19
